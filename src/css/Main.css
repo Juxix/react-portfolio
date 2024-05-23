@@ -1,0 +1,20 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background-color: #cfcfcf98;
+}
+
+.list-group {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+.list-group-item {
+    background-color: #70b55498;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 5px 0;
+}

@@ -1,0 +1,15 @@
+.header-container {
+    text-align: center;
+    background-color: #54b55c98;
+    padding: 20px;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+h1 {
+    margin: 10px 0 0 0;
+}
